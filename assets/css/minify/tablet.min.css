@@ -1,0 +1,653 @@
+@media (max-width: 991px) {
+    .hover-effect a img {
+        width:150px
+    }
+
+    .logo-design-inner {
+        right: 0;
+        top: 26%
+    }
+
+    .logo-design-inner img {
+        width: 150px;
+        margin: -12px
+    }
+
+    .preloader .preloader-block .percent {
+        top: 8%;
+        left: 6%
+    }
+
+    .doubleMenu {
+        display: none
+    }
+
+    .navicon {
+        left: 0
+    }
+
+    header nav {
+        justify-content: space-between
+    }
+
+    .footer-top-wrap {
+        padding: 30px 0
+    }
+
+    .footer-menu ul li {
+        padding-bottom: 10px
+    }
+
+    .footer-menu ul li a {
+        font-size: 14px
+    }
+
+    .footer-bottom-text p {
+        font-size: 12px;
+        padding-top: 4px
+    }
+
+    .footer-bottom-wrap {
+        padding: 20px 0
+    }
+
+    .navicon .nav-toggle {
+        display: block;
+        top: 20px
+    }
+
+    .main-heading {
+        padding-left: 14%;
+        padding-top: 8%;
+        padding-right: 15%;
+    }
+
+    .banner-right {
+        width: 38%;
+        bottom: 14px
+    }
+
+    .main-heading h2 {
+        font-size: 43px;
+        line-height: 52px
+    }
+
+    .main-heading p {
+        font-size: 16px;
+        line-height: 28px;
+        padding-top: 20px
+    }
+
+    .footer-bottom-privacy ul li a {
+        font-size: 12px
+    }
+
+    .serv-images {
+        width: 180px
+    }
+
+    .content-wrap p {
+        padding: 20px 24px 15px 0;
+        font-size: 14px
+    }
+
+    .portfolio-box.col {
+        margin-bottom: 0;
+        padding: 5px
+    }
+
+    .testi-slider.owl-carousel .owl-nav button.owl-prev {
+        margin-left: -88px;
+        position: absolute;
+        left: 0;
+        top: -6px
+    }
+
+    .testi-slider.owl-carousel .owl-nav button {
+        width: 47%
+    }
+
+    .client-review p {
+        min-height: 152px
+    }
+
+    .testi-slider.owl-carousel .owl-nav button.owl-next {
+        margin-right: 0;
+        position: absolute;
+        right: -89px;
+        top: -6px
+    }
+
+    section.portfolio .portfolio-box a:before {
+        width: 95%;
+        left: 4px
+    }
+
+    .video-box {
+        height: 260px
+    }
+
+    .ban-arrow {
+        right: 30%;
+        width: 16%
+    }
+
+    .portfolio-responsive-slider {
+        padding: 0 6% 0 13%
+    }
+
+    .web-content p {
+        font-size: 14px;
+        line-height: 22px
+    }
+
+    .web-content h2 {
+        font-size: 34px;
+        line-height: 38px
+    }
+
+    .web-content {
+        padding-left: 0;
+        padding-top: 5%
+    }
+
+    .web-inner-img1 {
+        width: 164px;
+        right: 25.5%;
+        height: 330px;
+        top: 28%
+    }
+
+    .web-inner-img2 {
+        width: 212px;
+        height: 400px;
+        top: 22%
+    }
+
+    .web-design .main-heading h2 {
+        padding-left: 0;
+        font-size: 38px;
+        line-height: 45px
+    }
+
+    .maincta h3,.maincta p,.web-design .service-tab-wrap {
+        padding-left: 0
+    }
+
+    .maincta h3 {
+        font-size: 20px;
+        line-height: 30px
+    }
+
+    .maincta h3 span {
+        font-size: 26px
+    }
+
+    .maincta p {
+        font-size: 12px
+    }
+
+    .maincta .btn-radius-top a {
+        padding: 7px 10px;
+        font-size: 14px
+    }
+
+    .maincta .btn-radius-top a:first-child {
+        margin-right: 3px
+    }
+
+    .maincta .callsdivs {
+        display: none
+    }
+
+    .web-serv-btn {
+        margin-left: 15px
+    }
+
+    .packagesbxs {
+        padding: 0
+    }
+
+    .mobile-app p,.service-text-wrap p {
+        font-size: 13px
+    }
+
+    .service-text h3 {
+        font-size: 22px
+    }
+
+    .web-design .inner-tab-content {
+        position: relative;
+        right: 0;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        width: 100%
+    }
+
+    .web-design .inner-service-image-box {
+        justify-content: center
+    }
+
+    .web-serv-btn {
+        display: none
+    }
+
+    .det-packages .sechead h3 {
+        font-size: 33px;
+        line-height: 30px
+    }
+
+    .det-packages .boxpackages {
+        box-shadow: 1px 9px 7px 5px #70707059;
+        margin-top: 30px
+    }
+
+    .mobile-app p {
+        line-height: 22px
+    }
+
+    .mobile-app-inner-img1 {
+        top: 26%;
+        right: 2%
+    }
+
+    .mobile-app-inner-img1 img {
+        width: 300px
+    }
+
+    .print-design-banner img {
+        width: 330px
+    }
+
+    .animation-banner-img img,.seo-banner-img img {
+        width: 270px
+    }
+
+    .print-design-banner {
+        right: 0
+    }
+
+    .portfolio-banner-img img {
+        width: 422px
+    }
+
+    .portfolio-banner-img {
+        top: 31%
+    }
+
+    .clinet-view-heading p {
+        font-size: 16px;
+        line-height: 24px
+    }
+
+    .clinet-icons-wraper {
+        width: 230px
+    }
+
+    .inner-about-us {
+        background-position: 80%
+    }
+
+    .inner-contact-form {
+        padding-top: 60px
+    }
+
+    .modal-images {
+        display: none
+    }
+
+    .get-started-popup {
+        width: 700px;
+        height: 400px;
+        padding: 0
+    }
+
+    .popup-headig {
+        padding-right: 0;
+        margin-top: 6%
+    }
+
+    h2.heading-h3 {
+        right: 17%
+    }
+
+    .long-h1,.popup-headig {
+        text-align: center
+    }
+
+    .main-modal-form .modal-dialog {
+        max-width: 700px
+    }
+
+    .get-started-popup button.close {
+        right: -17px
+    }
+
+    form#regForm {
+        width: 80%
+    }
+
+    .form_wrapper {
+        justify-content: center;
+        display: flex
+    }
+
+    .banner_form_btn {
+        justify-content: flex-start
+    }
+
+    .about-heading.contact-us-area h2 {
+        font-size: 33px
+    }
+
+    .about-heading.contact-us-area {
+        padding-bottom: 30px
+    }
+
+    .contact-details h2 {
+        font-size: 40px;
+        padding-bottom: 10px
+    }
+}
+
+@media (max-width: 767px) {
+    .logo-design-inner,.mobile-app-inner-img1,.portfolio-banner-img img {
+        display:none
+    }
+
+    .banner-right {
+        bottom: 19px
+    }
+
+    .left-content-wrap {
+        flex-direction: column
+    }
+
+    .img2 {
+        top: 0
+    }
+
+    .right-content-wrap {
+        flex-direction: column
+    }
+
+    .main-heading h2 {
+        font-size: 34px;
+        line-height: 40px
+    }
+
+    .main-heading {
+        padding-top: 15%;
+        padding-left: 21%;
+        padding-right: 15%;
+    }
+
+    .main-heading p {
+        font-size: 13px;
+        line-height: 22px;
+        padding-top: 10px
+    }
+
+    .side-bar {
+        height: 75vh
+    }
+
+    .services-wrapper {
+        padding: 4% 6% 2% 14%
+    }
+
+    .images-wrapper,.right-content-wrap .images-wrapper {
+        justify-content: flex-start
+    }
+
+    .logo-content.content-wrap {
+        padding-bottom: 15px
+    }
+
+    .creative-heading h3 {
+        font-size: 25px
+    }
+
+    .creative-heading h2 {
+        font-size: 30px;
+        line-height: 40px
+    }
+
+    .content-wrap h3 {
+        font-size: 38px
+    }
+
+    .port-content h2 {
+        text-align: left
+    }
+
+    .port-content p {
+        font-size: 14px;
+        padding: 0 10px 15px;
+        text-align: left
+    }
+
+    .creative-heading {
+        padding-left: 15%
+    }
+
+    section.portfolio {
+        margin: 0 6% 0 15%
+    }
+
+    .parent-tabs {
+        margin: 20px 0;
+        justify-content: center!important
+    }
+
+    .sub-tabs {
+        margin-bottom: 30px;
+        justify-content: flex-start!important
+    }
+
+    .content-wrap p {
+        padding: 0 25px 5px 0
+    }
+
+    .ser-button1 {
+        margin-top: 5px
+    }
+
+    .footer-menu ul li a {
+        font-size: 16px
+    }
+
+    .content-wrap h3,.footer-address ul li {
+        padding-bottom: 10px
+    }
+
+    .footer-bottom-wrap {
+        padding: 10px 0;
+        text-align: center
+    }
+
+    .footer-bottom-privacy ul,.footer-bottom-social ul {
+        justify-content: center
+    }
+
+    .brand-logo {
+        width: 30%
+    }
+
+    .innerMenu {
+        margin-top: 145px
+    }
+
+    .empty-box {
+        display: none!important
+    }
+
+    .portfolio-box.col,.row.row-cols-md-5.portfolio-responsive-slider.justify-content-center {
+        padding: 0
+    }
+
+    .sub-tabs .nav-item a {
+        padding: 4px 10px;
+        font-size: 12px
+    }
+
+    .testi-slider.owl-carousel .owl-nav button.owl-next {
+        margin-right: 0;
+        position: absolute;
+        right: -151px;
+        top: 8px
+    }
+
+    .testi-slider.owl-carousel .owl-nav button {
+        width: 77.3%
+    }
+
+    .testi-slider.owl-carousel .owl-nav button.owl-prev {
+        margin-left: -88px;
+        position: absolute;
+        left: -63px;
+        top: 8px
+    }
+
+    .portfolio-box-wrap ul li a {
+        font-size: 17px;
+        padding: 3px 16px
+    }
+
+    .client-review p {
+        min-height: 220px
+    }
+
+    .footer-bottom-text p {
+        padding-top: 0;
+        text-align: center
+    }
+
+    .footer-menu,.mobile-app p br {
+        display: none
+    }
+
+    .cr-wrapper {
+        font-size: 100px
+    }
+
+    .portfolio-box-wrap .tab-content {
+        width: 563px
+    }
+
+    .portfolio-responsive-slider {
+        padding: 0 6% 0 10%
+    }
+
+    section.clientssection {
+        padding: 10px 50px 10px 150px
+    }
+
+    .ban-arrow {
+        right: 31%;
+        width: 14%;
+        bottom: 7%
+    }
+
+    .web-content {
+        padding-top: 15%;
+        padding-left: 0
+    }
+
+    .web-content h2 {
+        font-size: 28px;
+        line-height: 33px
+    }
+
+    .web-content p {
+        font-size: 11px;
+        line-height: 18px;
+        padding-top: 10px
+    }
+
+    .web-inner-img2 {
+        width: 155px;
+        height: 314px
+    }
+
+    .web-inner-img1 {
+        width: 120px;
+        height: 250px;
+        right: 24.5%
+    }
+
+    .maincta p {
+        font-size: 10px
+    }
+
+    .contact-data a,.maincta h3 span {
+        font-size: 22px
+    }
+
+    .maincta h3 {
+        font-size: 15px;
+        line-height: 25px
+    }
+
+    .service-text h3 {
+        font-size: 18px
+    }
+
+    .service-text-wrap p {
+        font-size: 11px
+    }
+
+    .hover-effect a img {
+        width: 145px;
+        border-radius: 18px
+    }
+
+    .maincta .btn-radius-top a {
+        padding: 5px 15px
+    }
+
+    .maincta .btn-radius-top {
+        margin-top: 10px;
+        display: flex;
+        flex-direction: column
+    }
+
+    .maincta .btn-radius-top a:first-child {
+        margin-bottom: 5px
+    }
+
+    .mobile-app-inner-img1 {
+        right: 5%;
+        top: 29%
+    }
+
+    .mobile-app-inner-img1 img {
+        width: 280px
+    }
+
+    .content-wrapper.pricing-inner-pg,.inner-about-us {
+        height: 85vh
+    }
+
+    .main-modal-form .modal-dialog {
+        max-width: 570px
+    }
+
+    .get-started-popup {
+        width: 570px
+    }
+
+    .heading-h1 {
+        font-size: 60px
+    }
+
+    .heading-h2 {
+        font-size: 85px
+    }
+
+    h2.heading-h3 {
+        font-size: 75px;
+        right: 18%
+    }
+}

@@ -1,0 +1,754 @@
+@media (max-width: 575px) {
+    section.main-banner {
+        position:relative;
+        height: 90vh;
+        background-color: #0a0a13
+    }
+
+    header {
+        padding: 12px 14px 0
+    }
+
+    .side-bar {
+        margin: 0 14px;
+        height: 85vh
+    }
+
+    .banner-right,.main-heading p br,.testi-slider.owl-carousel .owl-nav {
+        display: none
+    }
+
+    .menu-right {
+        padding-left: 0
+    }
+
+    .menu-right .default-btn {
+        padding: 7px 17px
+    }
+
+    .testi-heading h2 {
+        font-size: 38px;
+        text-align: left
+    }
+
+    .testi-heading p {
+        font-size: 15px;
+        padding: 0 30px 20px 10px;
+        text-align: left
+    }
+
+    .cr-wrapper {
+        font-size: 70px
+    }
+
+    .main-heading h2 {
+        line-height: 40px;
+        font-size: 40px
+    }
+
+    .main-heading {
+        padding-left: 21%;
+        padding-top: 8%;
+        padding-right: 10px;
+    }
+
+    .navicon .nav-toggle {
+        left: 18%
+    }
+
+    .menu-right .default-btn {
+        font-size: 18px;
+        margin-right: 12px
+    }
+
+    .footer-bottom-text p {
+        text-align: center;
+        font-size: 14px
+    }
+
+    .footer-bottom-privacy ul li a {
+        font-size: 14px
+    }
+
+    .parent-tabs,.sub-tabs {
+        display: grid;
+        grid-template-columns: auto auto auto
+    }
+
+    .port-content {
+        padding-left: 14%
+    }
+
+    section.portfolio {
+        margin: 0 6%
+    }
+
+    .portfolio-responsive-slider {
+        padding: 0 6% 0 18%
+    }
+
+    .sub-tabs .nav-item a {
+        padding: 4px 6px
+    }
+
+    .portfolio-box-wrap ul li a {
+        padding: 3px 5px
+    }
+
+    .testi-wrapper {
+        margin: 0 6% 0 13%
+    }
+
+    section.clientssection {
+        padding: 0 50px 0 100px
+    }
+
+    .client-review p {
+        min-height: 150px;
+        text-align: left
+    }
+
+    .preloader .preloader-block .percent {
+        top: 8%;
+        left: 9%
+    }
+
+    .ban-arrow {
+        display: none
+    }
+
+    .creative-heading {
+        padding-left: 18%
+    }
+
+    .services-wrapper {
+        padding: 4% 6% 2% 16%
+    }
+
+    .testi-heading {
+        padding-left: 16%
+    }
+
+    .web-service-box.box-1,.web-service-box.box-2,.web-service-box.box-3 {
+        border: 0
+    }
+
+    .web-banner {
+        display: none
+    }
+
+    .main-heading p {
+        font-size: 15px;
+        line-height: 22px
+    }
+
+    .web-design .main-heading h2 {
+        font-size: 34px;
+        line-height: 42px;
+        padding-left: 17%
+    }
+
+    .web-design .service-tab-wrap {
+        padding-left: 15%
+    }
+
+    .service-text-wrap p {
+        padding-right: 10%
+    }
+
+    .det-packages .sechead h3 {
+        font-size: 21px;
+        padding-left: 10%
+    }
+
+    .det-packages .sechead p {
+        font-size: 14px;
+        padding-left: 14%
+    }
+
+    .maincta h3,.maincta p {
+        padding-left: 17%
+    }
+
+    .maincta .btn-radius-top {
+        margin-top: 20px;
+        display: inline-block;
+        padding-right: 18%
+    }
+
+    section.about-us-content {
+        padding: 60px 0 60px 60px
+    }
+
+    .about-heading h2 {
+        font-size: 30px;
+        padding-left: 14px
+    }
+
+    .abut-h2 {
+        font-size: 24px
+    }
+
+    .clinet-view-wraper {
+        width: 85%;
+        height: 236px;
+        margin-top: 5%
+    }
+
+    .clinet-view-wraper::after {
+        left: 80px
+    }
+
+    .clinet-view-heading {
+        padding-left: 34%
+    }
+
+    .inner-about-us {
+        background-position: 50%
+    }
+
+    .clinet-icons-wraper {
+        width: 202px
+    }
+
+    .clinet-icons-set {
+        padding-left: 12%
+    }
+
+    .packages-slider .col-lg-3 {
+        flex: 0 0 85%;
+        max-width: 85%
+    }
+
+    .packages-tabs {
+        padding-left: 14%
+    }
+
+    .get-started-popup {
+        width: 476px
+    }
+
+    .main-modal-form .modal-dialog {
+        max-width: 530px;
+        padding-left: 10%
+    }
+
+    h2.heading-h3 {
+        font-size: 70px;
+        right: 14%
+    }
+
+    .heading-h2 {
+        font-size: 75px
+    }
+
+    .banner_form_btn {
+        justify-content: center;
+        margin-top: 10px
+    }
+
+    .detailHeader .innerMenu li {
+        padding: 0 12px
+    }
+}
+
+@media (max-width: 480px) {
+    .menu-right .default-btn {
+        padding:6px 13px;
+        font-size: 14px
+    }
+
+    .menu-right .default-btn .btn-icon {
+        padding: 1px 7px;
+        font-size: 14px
+    }
+
+    .btn-icon i {
+        margin-top: 10px
+    }
+
+    .detailHeader .innerMenu li {
+        padding: 0 10px
+    }
+
+    .brand-logo .icon {
+        width: 65px
+    }
+
+    .side-bar {
+        width: 66px
+    }
+
+    .main-heading {
+        padding-left: 23%;
+        padding-top: 6%
+    }
+
+    .main-heading h2 {
+        line-height: 38px;
+        font-size: 32px
+    }
+
+    .main-heading p {
+        font-size: 16px;
+        line-height: 24px
+    }
+
+    .side-bar {
+        height: 77vh
+    }
+
+    section.main-banner {
+        height: 85vh
+    }
+
+    .navicon {
+        left: -12px;
+        top: -12px
+    }
+
+    .banner-button .default-btn {
+        font-size: 14px;
+        padding: 8px 20px
+    }
+
+    .creative-heading h2 {
+        font-size: 18px;
+        line-height: 25px
+    }
+
+    .creative-heading h3 {
+        font-size: 18px
+    }
+
+    .creative-heading {
+        padding-left: 20%
+    }
+
+    .img1,.img3 {
+        margin-right: 20px
+    }
+
+    .left-content-wrap,.right-content-wrap {
+        padding-bottom: 10%
+    }
+
+    .right-content-wrap .content-wrap p {
+        padding: 0 0 15px
+    }
+
+    .client-review p {
+        font-size: 13px;
+        line-height: 22px
+    }
+
+    .testi-heading p {
+        font-size: 14px;
+        padding: 0 10px 10px
+    }
+
+    .client-name h5 {
+        font-size: 11px
+    }
+
+    .client-name h4 {
+        font-size: 13px
+    }
+
+    .testi-slider.owl-carousel .owl-dots {
+        margin-top: 0
+    }
+
+    .portfolio-box.col a img {
+        width: 320px;
+        padding-left: 30px
+    }
+
+    section.portfolio .portfolio-box a:before {
+        width: 52%;
+        left: 142px
+    }
+
+    section.portfolio .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-top: 20px
+    }
+
+    section.portfolio {
+        padding: 20px 0
+    }
+
+    .partnerslider .slick-slide img {
+        height: 60px
+    }
+
+    .video-box {
+        height: 221px
+    }
+
+    .portfolio-box-wrap {
+        margin-left: 16%
+    }
+
+    .portfolio-box-wrap ul li a {
+        font-size: 14px;
+        padding: 3px 13px
+    }
+
+    .portfolio-responsive-slider {
+        padding: 0
+    }
+
+    .web-design .main-heading h2 {
+        font-size: 28px;
+        line-height: 32px
+    }
+
+    .web-design .inner-service-image-box {
+        padding-left: 13%
+    }
+
+    .maincta .btn-radius-top {
+        padding-right: 6%
+    }
+
+    .portfolio-box.col {
+        padding-left: 20%
+    }
+
+    .clinet-icons-set {
+        padding-left: 15%
+    }
+
+    .clinet-icons-wraper {
+        width: 172px
+    }
+
+    .packages-slider .col-lg-3 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding-left: 10%
+    }
+
+    .packages-tabs .nav-tabs li a {
+        padding: 4px 10px;
+        font-size: 12px
+    }
+
+    .about-heading.contact-us-area {
+        padding-bottom: 20px
+    }
+
+    .contact-data {
+        padding: 10px
+    }
+
+    .contact-data a span {
+        font-size: 14px
+    }
+
+    .inner-contact-form {
+        padding-top: 30px
+    }
+
+    .get-started-popup {
+        width: 364px
+    }
+
+    .main-modal-form .modal-dialog {
+        max-width: 430px;
+        padding-left: 17%
+    }
+
+    .long-h1 {
+        font-size: 39px
+    }
+
+    h2.heading-h3 {
+        font-size: 60px;
+        right: 9%
+    }
+
+    .heading-h2 {
+        font-size: 65px
+    }
+
+    .heading-h1 {
+        font-size: 50px
+    }
+
+    form#regForm {
+        width: 90%
+    }
+
+    .detailHeader .inner-menu-bottom .innerMenu li a {
+        font-size: 16px
+    }
+}
+
+@media (max-width: 360px) {
+    .menu-right {
+        display:none
+    }
+
+    .side-bar {
+        margin: 0 8px;
+        top: 10px
+    }
+
+    header {
+        padding: 10px 8px 0
+    }
+
+    .brand-logo {
+        width: 50%
+    }
+
+    .navicon .nav-toggle {
+        left: 70%
+    }
+
+    .portfolio-box.col a img {
+        padding-left: 55px
+    }
+
+    section.portfolio .portfolio-box a:before {
+        width: 45%;
+        left: 167px
+    }
+
+    .social-icons {
+        left: 33%
+    }
+
+    .main-heading h2 {
+        line-height: 27px;
+        font-size: 23px
+    }
+
+    .main-heading {
+        padding-left: 25%
+    }
+
+    .main-heading p {
+        font-size: 14px;
+        line-height: 17px
+    }
+
+    .creative-heading {
+        padding-left: 23%
+    }
+
+    .creative-heading h2 {
+        font-size: 16px;
+        line-height: 19px
+    }
+
+    .services-wrapper {
+        padding: 4% 1% 2% 20%
+    }
+
+    .content-wrap p {
+        padding: 0 15px 5px 0;
+        font-size: 12px
+    }
+
+    .content-wrap h3 {
+        font-size: 30px
+    }
+
+    .port-content h2 {
+        font-size: 30px;
+        margin-left: 15px
+    }
+
+    .port-content p {
+        font-size: 13px;
+        padding: 0 10px 15px
+    }
+
+    .testi-heading h2 {
+        font-size: 28px;
+        margin-left: 15px
+    }
+
+    .testi-heading p {
+        font-size: 14px;
+        padding: 0 10px 10px 20px
+    }
+
+    .portfolio-box-wrap ul li a {
+        font-size: 13px
+    }
+
+    .port-content {
+        padding-left: 17%
+    }
+
+    .portfolio-box-wrap {
+        margin-left: 20%
+    }
+
+    .cr-wrapper {
+        font-size: 50px;
+        margin-left: 40px
+    }
+
+    .footer-address {
+        justify-content: flex-end;
+        margin-right: 50px
+    }
+
+    .footer-address ul li a {
+        font-size: 14px
+    }
+
+    .footer-bottom-text p {
+        font-size: 12px
+    }
+
+    .footer-bottom-privacy ul li a {
+        font-size: 11px
+    }
+
+    .footer-bottom-privacy ul li {
+        border-left: none
+    }
+
+    .detailHeader ul.menuBlock li a {
+        font-size: 15px;
+        line-height: 35px
+    }
+
+    .detailHeader .inner-menu-bottom .innerMenu li a {
+        line-height: 35px;
+        font-size: 13px
+    }
+
+    .detailHeader .innerMenu li {
+        padding: 0 5px
+    }
+
+    .sub-tabs {
+        padding: 0 80px 0 150px
+    }
+
+    .parent-tabs,.sub-tabs {
+        grid-template-columns: auto auto
+    }
+
+    .testi-wrapper {
+        margin: 0 0 0 15%
+    }
+
+    .preloader .preloader-block .percent {
+        left: 11%
+    }
+
+    .video-box {
+        height: 157px
+    }
+
+    .web-design .main-heading h2 {
+        font-size: 20px;
+        line-height: 25px;
+        padding-left: 22%
+    }
+
+    .web-design .service-tab-wrap {
+        padding-left: 20%
+    }
+
+    .hover-effect a img {
+        width: 116px;
+        border-radius: 18px
+    }
+
+    .web-design .inner-service-image-box {
+        padding-left: 24%
+    }
+
+    .maincta h3,.maincta p {
+        padding-left: 22%
+    }
+
+    .maincta h3 span {
+        font-size: 21px
+    }
+
+    .det-packages .boxpackages .packheads p,.maincta p {
+        font-size: 12px
+    }
+
+    .maincta .btn-radius-top a:first-child {
+        display: none
+    }
+
+    .maincta .btn-radius-top {
+        padding-right: 16%
+    }
+
+    .clinet-icons-wraper {
+        width: 172px
+    }
+
+    .clinet-view-wraper::after {
+        left: 55px
+    }
+
+    .clinet-icons {
+        padding: 8% 0 8% 10%
+    }
+
+    .clinet-view-heading p {
+        font-size: 14px;
+        line-height: 20px
+    }
+
+    .clinet-view-heading h4 {
+        font-size: 26px
+    }
+
+    .packdetails .bets_seller_list ul li {
+        font-size: 12px;
+        padding: 5px 20px
+    }
+
+    .det-packages .sechead p {
+        font-size: 13px;
+        line-height: 22px
+    }
+
+    .get-started-popup {
+        width: 270px
+    }
+
+    .main-modal-form .modal-dialog {
+        max-width: 330px;
+        padding-left: 20%
+    }
+
+    .get-started-popup button.close {
+        right: -22px
+    }
+
+    h2.heading-h3 {
+        font-size: 47px;
+        right: 6%
+    }
+
+    .heading-h2 {
+        font-size: 55px
+    }
+
+    .heading-h1 {
+        font-size: 40px
+    }
+
+    .long-h1 {
+        font-size: 28px
+    }
+
+    .get-started-popup {
+        height: 300px
+    }
+}
