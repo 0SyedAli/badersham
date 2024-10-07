@@ -629,7 +629,8 @@ ul.navbar li.nav-space {
 .social-icons {
     position: absolute;
     bottom: 40px;
-    left: 37%
+    left: 37%;
+    display: none;
 }
 
 .social-icons ul li {
@@ -1831,7 +1832,8 @@ footer .bannerImg>* {
 
 .packdetails .botarea-pack .liovechats-bx {
     margin-top: -4px;
-    padding-right: 14px
+    padding-right: 14px;
+    display: none !important;
 }
 
 .packdetails .botarea-pack .liovechats-bx a span {
